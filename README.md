@@ -44,10 +44,12 @@
 ‎Score saved!
 ‎
 ‎
-‎Screenshots:
-‎
-‎
-‎
+screenshot:
+
+‎<img width="720" height="1640" alt="Screenshot_20260513-223640" src="https://github.com/user-attachments/assets/8e00c94c-ca73-43ff-83a9-0d59d823e6b9" />
+
+<img width="720" height="1640" alt="Screenshot_20260513-223645" src="https://github.com/user-attachments/assets/d1225676-665a-4656-90e9-03b5d2c34417" />
+
 ‎
 ‎Python Concepts Used
 ‎
